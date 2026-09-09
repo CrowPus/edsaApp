@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Edsa",
+    "slug": "edsa",
+    "scheme": "edsa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true },
+    "web": { "bundler": "metro", "output": "single", "favicon": "./public/favicon.ico" }
+  }
+}
